@@ -19,7 +19,7 @@ function erzeugeEtikett(){
   var jahr = heute.getFullYear(); //speichert das Jahr aus dem Datum
   var monat = heute.getMonth(); //speichert den Monat aus dem Datum
   var tag = heute.getDay(); //speichert den Tag aus dem Datum
-  return tag + monat + jahr; //erzeugt und speichert ein Etikett, basierend auf dem Datum
+  return tag + "-" + monat + "-" + jahr; //erzeugt und speichert ein Etikett, basierend auf dem Datum
 }
 /*Speichert den Wert des aktuellen Fasses unter dem Etikett im Regal*/
 function speichern(){

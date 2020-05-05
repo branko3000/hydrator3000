@@ -1,3 +1,7 @@
+Auf repl.it: https://repl.it/@branko3000/hydrator3000
+Auf Github: https://github.com/branko3000/hydrator3000
+Im Web: https://branko3000.github.io/hydrator3000/
+
 Aufgaben:
 Zu jeder Aufgabe gehört eine Skriptdatei. Diese findest du im Ordner /js.
 Jede Skriptdatei enthält eine Beispiellösung für die vorhergegangene Aufgabe.
